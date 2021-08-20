@@ -1,0 +1,59 @@
+.container{
+    padding: 10px;
+    letter-spacing: 1px;
+    color:#333333;
+    width:850px;
+}
+header{
+    height:70px;
+    
+}
+.header-center{
+    text-align: center;
+}
+h1{
+    border: gray solid 3px;
+    background-color: gainsboro;
+}
+img{
+    width: 100%;
+    height: 400px;
+}
+ul{
+    font-size:30px;
+    
+}
+li{
+    font-size: 20px;
+    margin-top:30px;
+}
+h2{
+    border: gray solid 2px;
+    padding:10px
+}
+span{
+    color:red;
+    font-size:20px;
+}
+.reason{
+    background-color: honeydew;
+}
+.low-fat{
+    background-color:beige;
+    border:#333333 solid 2px;
+}
+
+.example p{
+    font-size:17px;
+
+}
+.good p{
+    font-size:17px;
+}
+.bad p{
+    font-size:17px;
+}
+.ketogenic{
+    background-color:beige;
+    border:#333333 solid 2px;
+}
